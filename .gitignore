@@ -1,0 +1,6 @@
+.vs/
+__pycache__/
+build/
+.proprietary/
+.venv/
+*.blend1
